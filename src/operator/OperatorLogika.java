@@ -3,7 +3,7 @@ package operator;
 public class OperatorLogika {
 	public static void main(String[] args) {
 		boolean True = true, False = false;
-		int x = 8;
+		int x = 11;
 		System.out.println("~ True : " + !True);
 		System.out.println("~ False : " + !False);
 		System.out.println();

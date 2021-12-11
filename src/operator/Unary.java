@@ -2,7 +2,7 @@ package operator;
 
 public class Unary {
 	public static void main(String[] args) {
-		int x = 4, y = 2;
+		int x = 13, y = 9;
 		x = -x; y = +y;
 		System.out.println("Nilai x = " + x);
 		System.out.println("Nilai y = " + y);
